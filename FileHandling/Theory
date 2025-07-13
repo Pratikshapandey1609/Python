@@ -1,0 +1,33 @@
+'''
+File handling in Python involves interacting with files on a computer's file system, 
+allowing for operations such as creating, opening, reading, writing, and closing files. This process is essential for data persistence, enabling programs to store and retrieve information beyond their execution time.
+
+Key Concepts:-------> 
+
+Opening a File: The open() function is used to open a file. 
+It takes the file path and the desired mode as arguments.
+
+file_object = open("filename.txt", "mode")
+
+filename.txt: The name and path of the file to be opened.
+mode: Specifies how the file will be accessed (e.g., read, write, append).
+
+
+File Modes:
+
+Different modes dictate the operations allowed on a file:
+
+'r' (Read): Opens a file for reading (default mode).
+'w' (Write): Opens a file for writing. Creates a new file if it doesn't exist, otherwise overwrites existing content.
+'a' (Append): Opens a file for appending new data to the end. Creates a new file if it doesn't exist. 
+'x' (Exclusive Creation): Creates a new file, raising an error if the file already exists.
+'b' (Binary): Used for binary files (e.g., images, audio).
+'t' (Text): Used for text files (default for non-binary modes).
+'+' (Read/Write): Can be combined with other modes (e.g., 'r+', 'w+', 'a+') to allow both reading and writing.
+
+2 primary files : 
+
+1) text files (.txt , .csv)
+2) binart files (non text files .mp3 )
+
+'''

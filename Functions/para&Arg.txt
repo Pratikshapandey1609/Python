@@ -1,0 +1,24 @@
+''''
+Parameters: 
+   These are the variables defined within the parentheses in a function's definition. 
+   They act as placeholders for the values that the function expects to receive when it is called. 
+   Parameters define the type and number of inputs a function can accept.
+   
+    def greet(name, age):  # 'name' and 'age' are parameters
+    print(f"Hello, {name}! You are {age} years old.")
+
+Arguments: 
+   These are the actual values or data passed to a function when it is called. 
+   Arguments provide the concrete values that replace the parameters during the function's execution. 
+
+greet("Alice", 30)  # "Alice" and 30 are arguments
+'''
+
+'''
+Types of Arguments :--
+
+1) positional Arguments
+2) keyword Arguments 
+3) default Arguments
+
+'''

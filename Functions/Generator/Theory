@@ -1,0 +1,3 @@
+python generators are a special type of function or expression that produces a sequence of values lazily, 
+one at a time, rather than generating and storing all values in memory at once. This "lazy evaluation" makes them highly memory-efficient 
+and suitable for working with large datasets or potentially infinite sequences. 

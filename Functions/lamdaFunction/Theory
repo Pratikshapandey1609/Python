@@ -1,0 +1,17 @@
+In Python, a lambda function is a small, anonymous function defined 
+using the lambda keyword. 
+Unlike standard functions defined with def, lambda functions do not 
+have a name and are typically used for short, 
+one-time operations
+
+Key characteristics of lambda functions:
+
+1) Anonymous: They are not assigned a name, hence "anonymous."
+
+2) Single Expression: A lambda function can take any number of arguments but can only 
+   contain one expression,which is evaluated and returned implicitly.
+
+3) Concise: They offer a compact syntax for simple functions, often used inline.
+
+4) Commonly used with Higher-Order Functions: Lambda functions are frequently 
+   employed as arguments to functions like map(), filter(), and sorted(), which take other functions as arguments.

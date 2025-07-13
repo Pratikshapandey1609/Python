@@ -1,0 +1,17 @@
+top to bottom 
+- condition , float run .. other not run 
+
+control statements 
+conditional - if , else , elif
+for while else suite
+nested 
+infinite loop
+range
+pass
+continue
+break
+assert return 
+
+
+
+

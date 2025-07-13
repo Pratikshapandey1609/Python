@@ -1,0 +1,18 @@
+Errors are : something which can't be handle 
+
+Exception are : ---------------------
+Exception handling in Python provides a structured way to deal with unexpected events 
+or errors that occur during program execution, preventing the program from crashing and 
+allowing for graceful recovery. 
+
+
+a - compile time errors
+b - runtime errors
+c - logical errors 
+
+
+try - except errors
+catch - code errors
+except 
+finally - always run 
+

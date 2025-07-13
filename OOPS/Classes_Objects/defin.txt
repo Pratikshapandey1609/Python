@@ -1,0 +1,22 @@
+Classes :----
+A class is a BluePrint or Template for creating a Objects
+
+Objects :----
+A real world entity
+or Actual instance of a class
+
+
+---------------------------------------------------
+
+self :-- 
+In Python, self is a conventional name for the first parameter of a method within a class definition. 
+It serves as a reference to the instance of the class on which the method is being called. 
+
+In Python, self is like the glue that binds data to behavior inside a class.
+It refers to the instance of the class itself,
+allowing you to access and modify the object’s attributes and methods.
+
+
+Refers to the current object created from a class.
+Used inside class methods to access or set instance variables.
+Must be the first parameter of instance methods (though you don’t pass it manually—Python does that for you

@@ -1,0 +1,31 @@
+Functions in Python are self-contained blocks of code designed to perform 
+a specific task. They are fundamental for organizing code, 
+
+promoting reusability, 
+improving readability 
+maintainability. 
+
+Defining a Function :---
+Functions are defined using the [def keyword], followed by the function name, 
+parentheses for parameters, and a colon. The function's code block is indented.
+
+def function_name(parameter1, parameter2):
+    # Function body
+    # Perform operations
+    return result # Optional: return a value
+
+Types of Functions: -----------------
+
+1) Built-in Functions:
+    These are functions pre-defined in Python, 
+    such as print(), len(), abs(), int(), etc.
+
+2) User-defined Functions:
+   These are functions created by the programmer to perform specific tasks 
+   tailored to their program's needs.
+3) Lambda Functions (Anonymous Functions):
+   These are small, single-expression functions defined using the lambda keyword,
+   often used for concise operations or as arguments to higher-order functions 
+   like map(), filter(), or reduce().
+
+

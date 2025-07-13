@@ -1,0 +1,22 @@
+"OOPs" in Python refers to Object-Oriented Programming. It is a programming paradigm that structures code around the concept of "objects," which are instances of "classes." This approach aims to model real-world entities and their interactions within a program.
+
+1) Classes and objects
+2) Encapsulations
+3) Inheritance
+4) Polymorphism 
+5) Abstraction
+
+
+--------- Features --------------> : 
+
+1) Modularity:
+Code is organized into independent, reusable units (objects).
+
+2) Reusability:
+Classes and objects can be reused across different parts of a program or in other projects.
+
+3) Maintainability:
+Changes in one part of the code are less likely to affect other parts due to encapsulation.
+
+4) Scalability:
+OOP facilitates the development of large and complex applications by breaking them down into manageable components.

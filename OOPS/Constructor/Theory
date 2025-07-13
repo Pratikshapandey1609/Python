@@ -1,0 +1,30 @@
+'''
+a constructor is a special method used to initialize a newly created object of a class. 
+It is automatically called when an object is instantiated. The primary purpose of a constructor is to set up 
+the initial state of the object by assigning values to its attributes or performing any necessary setup logi
+
+Key aspects of constructors in Python:-----
+
+__init__ method:
+This is the designated method for defining a constructor. It is a "dunder" method (double underscores) 
+and is automatically invoked when an object of the class is created.
+
+self parameter:
+The first parameter of the __init__ method must always be self. 
+This refers to the instance of the object being created, allowing 
+you to access and modify its attributes.
+
+
+Types of constructors: -----------
+
+Default Constructor: (self)
+If no __init__ method is explicitly defined in a class, 
+Python provides a default constructor that does nothing.
+(self)
+
+Parameterized Constructor: (Self , name , age)
+This type of constructor takes additional parameters beyond self to allow for 
+the initialization of object attributes with specific values provided during object creation.
+
+constructor with values (self , name='guest , age = 0)
+'''

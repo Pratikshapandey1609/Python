@@ -1,0 +1,17 @@
+<!-- In List DataType  here  you can store different types of data types 
+# String 
+# boolean 
+# numbers  -->
+
+<!-- list are :----- 
+         1) mutable
+         2) ordered
+         3) dynamic
+         4) heterogenous
+ -->
+
+Ways : of creating a list
+1) square brackets  [];
+2) list constructor :-- double parentheses [list(())]
+3) list comprehension & range
+4)

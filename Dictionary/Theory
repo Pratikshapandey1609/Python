@@ -1,0 +1,29 @@
+1 - Definition :--
+
+key - value pair 
+Dictionary are Mutable 
+and Dynamic , if we want to increase data we can do it also
+
+A dictionary in Python is a built-in, mutable data structure that 
+stores data in key-value pairs. It is an unordered collection, 
+meaning the items do not have a defined order, although in modern Python versions (3.7+), 
+insertion order is preserved.
+
+2 - creation :--
+  usng {},
+  using dict() constructor
+
+3 - operation  :--
+    adding items 
+    Updatig items
+    deleting items
+
+4 - Dictionary Methods :--
+    get() , keys(), values() ,items()
+    pop() , popitem() , clear()
+
+5 - Comprehension :--
+    Dictionary Comprehension
+
+6 - Nested Dictionary
+7 - Common Use case  

@@ -1,0 +1,12 @@
+when we want to repeat some tasks multiple times 
+
+1) for -- iterate on sequences  list tuples string 
+syntax ---- for variable in sequences
+            #code 
+
+            
+---------------------------------------------------------------------------
+
+2) while --  untill unless condition is true 
+syntax ---- while condition:
+        #codde 
